@@ -1,4 +1,5 @@
 use Institute_Management_System
+
 -- Institute Management System: Final Schema (School + College)
 
 -- 1. Institutions
