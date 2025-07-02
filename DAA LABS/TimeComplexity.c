@@ -18,3 +18,4 @@ void main(){
     fprintf(fp,"Time taken: %f seconds\n",cpu_time_used);
     fclose(fp);
 }
+
